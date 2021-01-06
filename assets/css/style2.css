@@ -1,0 +1,21 @@
+body {
+min-height:1000px;  
+    font-family: 'Source Serif Pro', serif;
+    background-image: url(../images/3410506.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.bg-danger{
+    
+
+ background-color: #eb4034 !important;   
+    
+    
+    
+}
+*/
+.text-danger {
+  color :#4800ff !important ;  
+    
+}
