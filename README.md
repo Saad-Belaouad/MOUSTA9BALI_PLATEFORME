@@ -1,7 +1,6 @@
 # MOUSTA9BALI_PLATEFORME
 #### A website that gives students guidance with their future studies. They can find entrance examinations and  communicate with people who can help them with guidance.
-![picprinc](https://user-images.githubusercontent.com/69659755/103831281-6ed09280-5084-11eb-82c1-1bfc2d664ed0.PNG)
-
+![2020-12-20 at 23-47-27](https://user-images.githubusercontent.com/69659755/104389496-4ba25900-5544-11eb-9d7a-eaebda2c6c4d.gif)
 
 
 
